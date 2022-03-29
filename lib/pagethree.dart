@@ -10,7 +10,7 @@ class Pagethree extends StatelessWidget {
       appBar: AppBar(
         automaticallyImplyLeading: false,
         title: Text(
-          "Localization",
+          "Localization With Getx",
           style: TextStyle(
             fontSize: 20,
           ),
